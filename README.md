@@ -2,7 +2,7 @@
 Identifying pneumonia using chest x-rays and deep learning (mobilenet)
 
 ## Objective
-Find a machine learning model that can predict, with the best accuracy possible, if a patient has pneumonia or not, based on his or her x-ray image.
+Find a deep learning model that can predict, with the reasonable accuracy, if a patient has pneumonia or not, based on his or her x-ray image.
 
 
 ## Dataset
