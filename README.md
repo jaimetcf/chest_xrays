@@ -11,7 +11,7 @@ Find a deep learning model that can predict, with the reasonable accuracy, if a 
 - 5,863 images, 2 categories
 
 
-Reference study: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+Reference publication: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
 
 ## Configurations evaluated
