@@ -29,7 +29,7 @@ Reference publication: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 ## Best model
 The configuration that produced the best accuracy was:
 
-- MobileNet fully training, and then finetuning
+- MobileNet with fully training, and then finetuning
 - batch size = 32
 - epochs = 100 pre-training, additional 30 for fine tuning
 
